@@ -1,0 +1,17 @@
+body 
+{
+    background-color: firebrick;
+    margin: 0px;
+}
+h1
+{
+    background-color: darkseagreen;
+    color:black;
+    text-align: center;
+}
+img 
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
